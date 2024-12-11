@@ -1,0 +1,29 @@
+
+{
+
+  "users": [
+
+    {
+
+      "id": 1,
+
+      "name": "Prajakta",
+
+      "email": "prajakta12@gmail.com"
+
+    },
+
+    {
+
+      "id": 2,
+
+      "name": "Bhushan",
+
+      "email": "Bhushan17@gmail.com"
+
+    }
+
+  ]
+
+}
+ 
